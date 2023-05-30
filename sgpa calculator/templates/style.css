@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    position: absolute;
+    width: 1536px;
+    height: 720px;
+    left: 0px;
+    top: 75px;
+    background: #000000;
+}
+.mele{
+    position: absolute;
+    width: 1440px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+
+    background:#9B8686;
+}
+
+
+.nav_bar {
+ position: absolute;
+ width: 1301px;
+ height: 39px;
+ left: 70px;
+ top: -28px;
+ font-family: 'Iceberg';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 25px;
+ line-height: 39px;
+ color: #000000;
+ 
+}
+
+
+
+.sgpa {
+    position: absolute;
+    width: 791px;
+    height: 117px;
+    left: 220px;
+    top: 20px;
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 75px;
+    line-height: 117px;
+    color: #FFFFFF;
+}
+
+.physics {
+    position: absolute;
+    width: 266px;
+    height: 41px;
+    left: 351px;
+    top: 219px;
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.physicsfill{
+    position: absolute;
+    width: 157px;
+    height: 34px;
+    left: 912px;
+    top: 219px;
+    background: #D9D9D9;
+    border-radius: 6px;
+}
+
+.math{
+    position: absolute;
+    width: 81px;
+    height: 39px;
+    left: 206px;
+    top: 138px;
+    
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.mathfill{
+    position: absolute;
+    width: 157px;
+    height: 34px;
+    left: 704px;
+    top: 138px;
+    background: #D9D9D9;
+    border-radius: 6px;
+}
+
+.elea {
+    position: absolute;
+    width: 144px;
+    height: 39px;
+    left: 191px;
+    top: 165px;
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.eleafill{
+    position: absolute;
+    width: 157px;
+    height: 34px;
+    left: 720px;
+    top: 165px;
+    background: #D9D9D9;
+    border-radius: 6px;
+}
+
+.eleb{
+ position: absolute;
+ width: 147px;
+ height: 39px;
+ left: 191px;
+ top: 188px;
+
+ font-family: 'Iceberg';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 32px;
+ line-height: 39px;
+ color: #FFFFFF;
+}
+.elebfill{
+    position: absolute;
+    width: 157px;
+    height: 34px;
+    left: 719px;
+    top: 188px;
+    background: #D9D9D9;
+    border-radius: 6px;
+}
+
+.pop{
+    position: absolute;
+    width: 154px;
+    height: 39px;
+    left: 191px;
+    top: 214px;
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 39px;
+    color: #FFFFFF;
+
+}
+
+.popfill{
+    position: absolute;
+    width: 157px;
+    height: 34px;
+    left: 721px;
+    top: 214px;
+    background: #D9D9D9;
+    border-radius: 6px;
+}
+.total{
+    position: absolute;
+    width: 83px;
+    height: 39px;
+    left: 203px;
+    top: 249px;
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+
+}
+.totalfill{
+    position: absolute;
+    width: 157px;
+    height: 34px;
+    left: 710px;
+    top: 249px;
+    background: #D9D9D9;
+    border-radius: 6px;
+}
+
+.fill{
+    position: absolute;
+    width: 157px;
+    height: 34px;
+    left: 721px;
+    top: 249px;
+    background: #D9D9D9;
+    border-radius: 6px;
+}
+
+.sgpa_result{
+    position: absolute;
+    width: 398px;
+    height: 39px;
+    left: 297px;
+    top: 291px;
+
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 39px;
+    color: #FFFFFF;
+
+}
+.dis{
+    position: absolute;
+    width: 1424px;
+    height: 35px;
+    left: 38px;
+    top: 340px;
+
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+
+}
